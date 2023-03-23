@@ -14,9 +14,8 @@
               "onFail": "FAILED"
             },
             "zebrunner": {
-              "pushResults": true,
-              "pushInRealTime": true,
-              "testRunId": 1
+              "pushResults": "pisos",
+              "testRunId": -100
             }
         }
     }
