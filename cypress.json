@@ -5,6 +5,8 @@
         "reportingServerAccessToken": "someaccesskey",
         "reportingProjectKey": "DEF",
         "reportingRunDisplayName": "Cypress Demo",
+        "reportingRunBuild": "pisosniy",
+        "reportingRunEnvironment": "PIS",
         "reportingRunLocale": "en_US",
         "reportingSlackChannels": "dev",
         "reportingEmailRecipients": "asukhodolova@solvd.com",
